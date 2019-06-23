@@ -1,1 +1,1 @@
-# 122-ajax-mutually-exclusive-checkbox-extender
+# http://30sharp.com/article/10/122/1/122-ajax-mutually-exclusive-checkbox-extender.aspx
